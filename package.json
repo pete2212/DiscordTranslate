@@ -1,0 +1,8 @@
+{
+“name”: “DragonTranslator”,
+“version”: “1.0.0”,
+“description”: “A translator for the den”,
+“main”: “bot.js”,
+“author”: “Arthur”,
+“dependencies”: {}
+}
