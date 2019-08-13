@@ -1,0 +1,2 @@
+# DiscordTranslate
+basic translation thing
